@@ -1,6 +1,6 @@
 <?php
 
-$dbhost = '10.34.46.6'; $dbname = 'amitdutt_sitedb'; $dbuser = 'amitdutt'; $dbpasswd ='b-Uy=}y+ch_@';
+$dbhost = '10.10.10.11'; $dbname = 'myapp'; $dbuser = 'myapp'; $dbpasswd ='myapp_1234';
 
 selectDB(getDBConn());
 

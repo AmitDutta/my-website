@@ -3,10 +3,10 @@
 
 //DB parameters
 
-$dbHost = "10.34.46.6";
-$dbUser = "amitdutt";
-$dbPassword = "b-Uy=}y+ch_@";
-$dbName = "amitdutt_sitedb";
+$dbHost = "10.10.10.11";
+$dbUser = "myapp";
+$dbPassword = "myapp";
+$dbName = "myapp_1234";
 
 //connect to the db
 function connect()
