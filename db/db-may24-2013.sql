@@ -26,6 +26,8 @@ SET time_zone = "+00:00";
 -- Table structure for table `current_location`
 --
 
+DROP TABLE IF EXISTS `current_location`
+
 CREATE TABLE IF NOT EXISTS `current_location` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `lat` double NOT NULL,
